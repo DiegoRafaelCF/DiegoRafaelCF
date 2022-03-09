@@ -1,7 +1,7 @@
 ### Olá! Me chamo Diego Rafael e seja muito bem-vindo ao meu perfil
 
-- 🌱 Atualmente eu estou estudando NodeJs | TypeScript | ReactJs;
-- 😄 Pronomes: Ele/Dele;
+- 🌱 Atualmente estou estudando NodeJs | TypeScript | ReactJs;
+- 👨‍💻 Cada vez mais apaixonado pelo universo da tecnologia e desenvolvimento; 
 
 <div>
   <a href="https://github.com/DiegoRafaelCF"></a>
