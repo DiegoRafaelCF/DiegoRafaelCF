@@ -1,6 +1,6 @@
 ### Olá! Me chamo Diego Rafael e seja muito bem-vindo ao meu perfil
 
-- 🌱 Atualmente estou estudando NodeJs | TypeScript | ReactJs;
+- 🌱 Atualmente estou estudando JavaScript | NodeJs | ReactJs | Python;
 - 👨‍💻 Cada vez mais apaixonado pelo universo da tecnologia e desenvolvimento; 
 
 <div>
