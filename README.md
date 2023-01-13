@@ -3,11 +3,11 @@
 - 🌱 Atualmente estou estudando JavaScript | NodeJs | ReactJs | Python;
 - 👨‍💻 Cada vez mais apaixonado pelo universo da tecnologia e desenvolvimento; 
 
-<div>
+<!-- <div>
   <a href="https://github.com/DiegoRafaelCF"></a>
   <img height="180em" src="https://diego-rafael-cf-27bv.vercel.app/api?username=DiegoRafaelCF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"">
   <img height="180em" src="https://diego-rafael-cf-27bv.vercel.app/api/top-langs/?username=DiegoRafaelCF&layout=compact&langs_count=7&theme=dark">
-</div>
+</div> -->
                                                                                                                                                 
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
