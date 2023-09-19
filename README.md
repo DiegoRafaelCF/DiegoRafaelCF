@@ -1,6 +1,5 @@
 ### Olá! Me chamo Diego Rafael e seja muito bem-vindo ao meu perfil
 
-- 🌱 Atualmente estou estudando JavaScript | NodeJs | ReactJs | Python;
 - 👨‍💻 Cada vez mais apaixonado pelo universo da tecnologia e desenvolvimento; 
 
 <!-- <div>
@@ -24,5 +23,5 @@
   <a href = "mailto:drafael8000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/diegorafaelcf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
-  ![Snake animation](https://github.com/DiegoRafaelCF/DiegoRafaelCF/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/DiegoRafaelCF/DiegoRafaelCF/blob/output/github-contribution-grid-snake.svg) -->
 </div>
